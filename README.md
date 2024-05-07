@@ -1,2 +1,4 @@
 # calculator
-fun calculator project
+fun calculator project with React 
+
+credit : /WebDevSimplified
